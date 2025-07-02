@@ -73,7 +73,7 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/Sharmaz/mk-app"><b>mk-app make a new app</b></a></td>
+      <td><a href="https://github.com/Sharmaz/mk-app"><b>mk-app (deprecated)</b></a></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/Sharmaz/mk-app?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Sharmaz/mk-app?style=flat-square&labelColor=343b41"/></td>
     </tr>
@@ -82,12 +82,26 @@
       <td><img alt="Issues" src="https://img.shields.io/github/issues/Sharmaz/the-sharmaz?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Sharmaz/the-sharmaz?style=flat-square&labelColor=343b41"/></td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/Sharmaz/phoenixd-mcp-server"><b>Phoenixd MCP Server</b></a></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/Sharmaz/phoenixd-mcp-server?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Sharmaz/phoenixd-mcp-server?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Sharmaz/enchilada"><b>Create Enchilada</b></a></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/Sharmaz/enchilada?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Sharmaz/enchilada?style=flat-square&labelColor=343b41"/></td>
+    </tr>
   </tbody>
 </table>
 
 <h2>📝 Interesting posts</h2>
 
 <ul>
+  <li>
+    <a href="https://ivanrobles.pro/code-hard-code-first-no-mercy/"><b>🤖 AI Adaptarse o Morir</b></a>
+    <br/><i>Nos guste o no Inteligencia Artificial llego para quedarse y toca el momento de adaptarse.</i></li>
+  </li>
   <li>
     <a href="https://ivanrobles.pro/code-hard-code-first-no-mercy/"><b>🥋 Code hard, code first, no mercy</b></a>
     <br/><i>En este post, hablo sobre Katas, una de las maneras para prácticar programación.</i></li>
